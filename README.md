@@ -1,7 +1,8 @@
 # Backup 
 
-A pedido de diverso pessoal está aqui o backup do material da licenciatura
-Quando retirarem o temp ban da minha conta esta backup sera apagado : <a href="https://github.com/luisbfsousa/leci"> Leci </a>
+A pedido de diverso pessoal está aqui o backup do material da licenciatura.
+
+Quando retirarem o temp ban da minha main estea backup sera apagado : <a href="https://github.com/luisbfsousa/leci"> Leci </a>
 
 # Leci's Vault
 
