@@ -1,10 +1,6 @@
 # Backup 
 
-!!!!!! 
-
-O github já levantou o ban da minha main, o backup vai continuar aqui ate 1 de novembro depois fica oculto. Usem o link que se encontra em baixo
-
-!!!!!!
+⚠️ O github já levantou o ban da minha main, o backup vai continuar aqui ate 1 de novembro depois fica oculto. Usem o link que se encontra em baixo ⚠️
 
 A pedido de diverso pessoal está aqui o backup do material da licenciatura.
 
