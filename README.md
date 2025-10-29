@@ -1,5 +1,9 @@
 # Backup 
 
+!!!!!! 
+O github já levantou o ban da minha main, o backup vai continuar aqui ate 1 de novembro depois fica oculto. Usem o link que se encontra em baixo
+!!!!!!
+
 A pedido de diverso pessoal está aqui o backup do material da licenciatura.
 
 Quando retirarem o temp ban da minha main estea backup sera apagado : <a href="https://github.com/luisbfsousa/leci"> Leci </a>
